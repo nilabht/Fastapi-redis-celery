@@ -5,6 +5,7 @@ attendence app
 -CLONE THE REPOSITORY
 
 **git clone https://github.com/nilabht/Fastapi-redis-celery.git**
+
 **cd Fastapi-redis-celery**
 
 -START THE APPLICATION
